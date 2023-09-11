@@ -1,0 +1,12 @@
+
+.container {
+  align-self: start;
+}
+table{
+  border: 2px;
+  width: 50px;
+}
+option{
+  max-width: 100px;
+}
+
